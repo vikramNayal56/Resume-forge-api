@@ -11,7 +11,7 @@ A backend project built with **Node.js** and **Express.js** to learn REST APIs, 
 ## 📂 Project Structure Explained
 
 ```text
-resume-api/
+Resume-forge-api/
 │
 ├── backup/                  # Contains earlier rudimentary CRUD implementations (e.g., using local data.json). Preserved for learning reference and comparison.
 ├── models copy/             # A backup of initial/older models before running the Sequelize CLI generators. Used to compare manual models vs CLI-generated models.
@@ -23,7 +23,7 @@ resume-api/
 ├── routes/                  # API route definitions separated by resource.
 ├── app.js                   # Application entry point.
 ├── package.json
-└── .gitignore
+
 ```
 
 ### Why do we have `backup/` and `models copy/`?
