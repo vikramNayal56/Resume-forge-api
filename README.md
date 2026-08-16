@@ -1,6 +1,6 @@
 
 
-# 📄 Resume API
+# 📄 Resume-Forge-api
 
 A backend project built with **Node.js** and **Express.js** to learn REST APIs, routing, controllers, models, and middleware using an industry-style project structure. Currently, it integrates **Sequelize** as an ORM to manage relational data efficiently.
 
